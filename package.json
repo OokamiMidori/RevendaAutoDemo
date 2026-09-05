@@ -1,0 +1,23 @@
+{
+  "name": "app-revenda-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Versão de demonstração do front-end de gestão de revenda — 100% local, sem backend, dados fictícios em memória. Para fins de portfólio/demonstração de interface.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.441.0",
+    "recharts": "^2.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
